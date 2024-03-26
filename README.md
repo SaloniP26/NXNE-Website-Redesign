@@ -34,3 +34,7 @@ The client requested the following features:
 
 The recreated NXNE website successfully met the client's requirements and received positive feedback from users. The updated design and improved functionality contributed to increased user engagement and ticket sales for the festival.
 
+## Figma Design Link
+
+- https://www.figma.com/file/NJ1wltkl2yPvhlYIgX7uqZ/IXD-5105-NXNE?type=design&node-id=41-3&mode=design&t=fjWrmPlakNdIwSNI-0
+
